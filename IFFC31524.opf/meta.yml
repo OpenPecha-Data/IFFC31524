@@ -1,0 +1,36 @@
+id: IFFC31524
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T22:55:05.854526'
+last_modified: '2022-05-30T22:55:05.854537'
+parser: null
+source_metadata:
+  title: Ratna Lingpa Series
+  language: en
+  description: 'Texts by the famous treasure-revealer Ratna Lingpa (ratna gling pa,
+    1403-1479):'
+  volume:
+    fC9AA:
+      title: 'Cloud Banks of Blessings: A Prayer Recounting the Eleven Deeds of the
+        Life and Liberation of the Guru from Uḍḍiyāna'
+      base_file: fC9AA.txt
+      order: 1
+      parent: Guru Padmasambhava
+    f9533:
+      title: The Invocation of Uḍḍiyāna on the Tenth Day
+      base_file: f9533.txt
+      order: 2
+      parent: Guru Padmasambhava
+    fA62E:
+      title: Aspiration Prayer from Tārā Sādhana
+      base_file: fA62E.txt
+      order: 3
+      parent: Tārā
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
